@@ -17,6 +17,7 @@ body{
 	margin: 0px;
 	color: white;
 	text-align: center;
+	color: #2ecc71
 }
 
 /*.book{
@@ -42,6 +43,10 @@ body{
 .book .author{
 	color: rgb(119, 119, 119);
 	margin: 0px;
+}
+
+.book p{
+	color: #777777;
 }
 
 .title{
